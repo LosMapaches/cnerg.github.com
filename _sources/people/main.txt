@@ -17,11 +17,11 @@ Research Staff
 |                                 |                                 |                                 |
 | :doc:`Meghan McGarry <mcgarry>` | :doc:`Baptiste Mouginot <bam>`  |                                 |
 |                                 |                                 |                                 |
-| Post-doctoral Associate         | Scientist                       |                                 |
+| Scientist                       | Scientist                       |                                 |
 +---------------------------------+---------------------------------+---------------------------------+
 
 
-.. |pphw_img| image:: hacker_blank.JPG
+.. |pphw_img| image:: hacker_wilson.JPG
               :width: 100
 
 .. _Douglass Henderson:  https://directory.engr.wisc.edu/ep/faculty/henderson_douglass
@@ -35,7 +35,7 @@ Research Staff
 .. |mbm_img| image:: hacker_mcgarry.JPG
               :width: 100
 
-.. |bam_img| image:: hacker_blank.JPG
+.. |bam_img| image:: hacker_mouginot.JPG
               :width: 100
 
 Graduate Students
@@ -46,9 +46,9 @@ Graduate Students
 |                                |                                       |                                    |                                    |                                  |  
 | :doc:`Elliott Biondo <biondo>` | :doc:`Robert Carlsen <carlsen>`       | :doc:`Chelsea D'Angelo <dangelo>`  | :doc:`Patrick Shriwise <shriwise>` | :doc:`Lucas Jacobson <jacobson>` |  
 +--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
-| |mh_img|                       | |ao_img|                              | |kk_img|                           |  |ng_img|                          |                                  |    
+| |mh_img|                       | |ao_img|                              | |kk_img|                           |  |ng_img|                          | |yp_img|                         |    
 |                                |                                       |                                    |                                    |                                  |
-|  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`|                                  |
+|  :doc:`Moataz Harb <mharb>`    | :doc:`Arrielle Opotowsky <opotowsky>` | :doc:`Kalin Kiesling <kiesling>`   | :doc:`Nancy Granda-Duarte <granda>`| :doc:`YoungHui Park <park>`      |
 +--------------------------------+---------------------------------------+------------------------------------+------------------------------------+----------------------------------+
 
 .. |edb_img| image:: hacker_biondo.JPG
@@ -78,18 +78,22 @@ Graduate Students
 .. |ng_img| image:: hacker_granda_duarte.JPG
   	     :width: 100
 
+.. |yp_img| image:: hacker_park.JPG
+  	     :width: 100 
+
 Undergraduate Students & Interns
 ---------------------------------
 
-None at this time.
++------------------------------------+
+|                                    |
+|                                    |
+|  :doc:`Ellis Wilson <ejwilson3>`   |
++------------------------------------+
 
 Employment Opportunties
 -----------------------------
 
-We are currently seeking:
-
-* `Assistant Scientist <http://www.ohr.wisc.edu/Weblisting/External/PVLSummary.aspx?pvl_num=84303>`_
-
+None at this time.
 
 Alumni
 -------------
@@ -97,7 +101,7 @@ Alumni
 * Geoff Bull, MS(2005), US Army
 * Kerry Dunn, PhD(2014), Sandia National Laboratories (Albuquerque)
 * Eric Edwards, PhD(2007), Entergy (Palisades)
-* `Matthew Gidden <http://www.iiasa.ac.at/>`_, PhD(2015), 
+* `Matthew Gidden <http://www.mattgidden.com>`_, PhD(2015), International Institute for Applied Systems Analysis (`IIASA <http://www.iiasa.ac.at/>`_) 
 * Ryan Grady, MS(2008), Exelon
 * Po Hu, PhD(2008), Shanghai Jiaotong Unviersity
 * `Katy Huff <http://katyhuff.github.io/>`_, PhD(2013), U. California - Berkeley
@@ -144,4 +148,7 @@ Alumni
    kiesling
    jacobson
    opotowsky
+   granda
+   bam
+   park
    ../jobs/programmer-2012
